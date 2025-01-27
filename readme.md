@@ -3,7 +3,7 @@
 ## Clone the Repository
 ```bash
 git clone https://github.com/prakash6200/nodebackend.git
-cd nodebackend
+cd Task3_NodejsTest_PrakashKumar
 ```
 
 ## Prerequisites
@@ -26,7 +26,7 @@ mv example.env .env
 ## Run the Backend Server
 Start the application with the following command:
 ```bash
-node index
+node index.js
 ```
 
 The backend should now be running and ready to handle requests.

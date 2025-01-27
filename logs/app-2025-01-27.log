@@ -1,0 +1,2 @@
+{"level":"info","message":"App running on http://localhost:8080","timestamp":"2025-01-27T10:35:36.611Z"}
+{"ip":"::1","level":"info","message":"Incoming request","method":"POST","timestamp":"2025-01-27T10:36:13.199Z","url":"/auth/login"}
